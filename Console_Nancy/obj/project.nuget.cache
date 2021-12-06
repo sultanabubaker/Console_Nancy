@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjRQSrorXQV2kZu7gU2cSvO0YRwrvY4KNrvRk08KO7kXtev12u2O9k5IEV1Xpg3Z/GqD4E5xDT38zIwLAAXCIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SultanAbuBaker\\source\\repos\\Console_Nancy\\Console_Nancy\\Console_Nancy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\nancy\\1.4.3\\nancy.1.4.3.nupkg.sha512",
+    "C:\\Users\\SultanAbuBaker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Nancy 1.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Nancy",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
